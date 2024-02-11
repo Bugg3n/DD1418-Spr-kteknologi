@@ -1,0 +1,4 @@
+Gömda tillstånd: De korrekta bokstäverna
+Observationer: Bokstäverna som matas in (Kan va rätt eller fel)
+Övergångssannolikheter: Sannolikheten att gå från en korrekt bokstav till nästa korrekta bokstav
+Observationssannolikhet: Sannolikheten att ett försök att klicka på en bokstav ger det man fakiskt klickar på

@@ -1,0 +1,2 @@
+python ViterbiBigramDecoder.py --probs bigram_probs.txt --file mistyped_test --check
+
